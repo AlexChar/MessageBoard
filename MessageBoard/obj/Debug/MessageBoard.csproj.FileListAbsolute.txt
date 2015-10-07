@@ -91,3 +91,4 @@ E:\VisualStudioPlayground\MessageBoard\MessageBoard\bin\WebActivatorEx.dll
 E:\VisualStudioPlayground\MessageBoard\MessageBoard\bin\Ninject.xml
 E:\VisualStudioPlayground\MessageBoard\MessageBoard\bin\Ninject.Web.Common.xml
 E:\VisualStudioPlayground\MessageBoard\MessageBoard\bin\Ninject.Web.Mvc.xml
+E:\VisualStudioPlayground\MessageBoard\MessageBoard\bin\WebApiContrib.IoC.Ninject.dll
